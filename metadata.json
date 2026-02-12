@@ -1,0 +1,5 @@
+{
+  "name": "Family Work Tracker",
+  "description": "A simple time-tracking app for family tasks with task-based hourly wages, monthly aggregation, and payment management.",
+  "requestFramePermissions": []
+}
